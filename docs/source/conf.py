@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'PublicSpeakingAnalysisWithLLMs'
-copyright = '2024, Alisa BARKAR'
-author = 'Alisa BARKAR'
+copyright = '2024, Anonym'
+author = 'Anonym'
 release = '1.0'
 
 # -- General configuration ---------------------------------------------------

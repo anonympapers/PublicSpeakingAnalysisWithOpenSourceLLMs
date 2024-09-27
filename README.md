@@ -7,7 +7,7 @@ This is automatic public speaking analysis framework based on open-source Large 
 - [Pipeline](#pipeline)
 - [Results](#results)
 - [Model Parameters Used in Experiments](#modelparametersusedinexperiments)
-- [Acknowledgements](#acknowledgements)
+
 
 ## Installation
 
@@ -105,5 +105,3 @@ This directory contains results that we obtained for the LLaMA2, LLaMA3, Mistral
 
 
 
-# Acknowledgements
-This research was partly funded under the ANR REVITALISE grant ANR-21-CE33-0016-02.
